@@ -1,0 +1,84 @@
+body {
+    background: #E6E6FA;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+}
+
+a:target {
+    color: gainsboro;
+}
+
+.avatar {
+    width: 180px;
+    height: 210px;
+}
+
+.conteiner {
+    max-width: 770px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.infotext span {
+    display: block;
+    margin-bottom: 10px;
+	font-family: Arial;
+    font-size: 16px;
+	font-weight: normal;
+}
+
+.icon {
+    margin-right: 10px;
+	width: 24px;
+    height: 24px;
+}
+h1 {font-family: Arial;
+    font-size: 24px;
+	font-weight: 600;
+	color: red;
+  }
+  h2 {font-family: Arial;
+    font-size: 18px;
+	font-weight: bold;
+	color: #191970;
+  }
+  p {font-family: Arial;
+    font-size: 16px;
+	font-weight: normal;
+	  }
+	  ul {font-family: Arial;
+    font-size: 16px;
+	font-weight: normal;
+	  }
+	  ol {font-family: Arial;
+    font-size: 16px;
+	font-weight: normal;
+      }
